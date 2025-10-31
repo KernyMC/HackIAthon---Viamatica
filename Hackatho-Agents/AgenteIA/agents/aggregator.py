@@ -18,7 +18,7 @@ def aggregate(
     score_econ = int(econ.get("score", 50))
     score_incons = int(incons.get("score", 50))
 
-    # Riesgo por categoría
+
     risks = {
         "legal": _score_to_risk(score_legal),
         "tecnico": _score_to_risk(score_tech),
