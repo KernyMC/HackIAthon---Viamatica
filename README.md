@@ -421,11 +421,3 @@ Este proyecto fue desarrollado para el HackIAthon de Viamatica, demostrando el p
 
 Este proyecto es de código abierto bajo licencia MIT.
 
-## Contacto y Soporte
-
-Para preguntas, sugerencias o reportar issues:
-- GitHub: [https://github.com/KernyMC/HackIAthon---Viamatica](https://github.com/KernyMC/HackIAthon---Viamatica)
-
----
-
-Desarrollado con ❤️ utilizando IA para mejorar la transparencia y eficiencia en licitaciones públicas.
